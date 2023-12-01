@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sillarson
-- 🎓 I am a first-year student at Rochester Institute of Technology. I am in the Accelerated Dual Degree program pursing my BS/MS in Computing Security.
-- 👀 I’m interested in data and network security, plants, reading, and crocheting.
+- 🎓 I am a third-year student at Rochester Institute of Technology pursing my BS in Cybersecurity.
+- 👀 I’m interested in GRC, plants, reading, and crocheting.
 - 💻 I’m not looking to collaborate on anything for now!
 - 📫 How to reach me:
 Email: sillarson03@gmail.com
