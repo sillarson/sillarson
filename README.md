@@ -4,8 +4,6 @@
 - 💻 I’m not looking to collaborate on anything for now!
 - 📫 How to reach me:
 Email: sillarson03@gmail.com
-Instagram: @sillarson
-Snapchat: @sillarson
 Discord: @sillarson
 - 🔗 Links:
 LinkedIn: https://www.linkedin.com/in/sillarson
